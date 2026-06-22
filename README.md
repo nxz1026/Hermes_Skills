@@ -1,6 +1,6 @@
 # Hermes Skills
 
-聂聃（肉山）的 Hermes Agent 自建 Skill 集合。
+（肉山）的 Hermes Agent 自建 Skill 集合。
 
 ## 目录结构
 
